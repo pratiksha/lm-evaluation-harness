@@ -1,0 +1,118 @@
+[
+  {
+    "question": "What house is Harry Potter sorted into?",
+    "answer": 0,
+    "choices": [
+      "Gryffindor",
+      "Slytherin",
+      "Ravenclaw",
+      "Hufflepuff"
+    ]
+  },
+  {
+    "question": "Who is the author of the Harry Potter series?",
+    "answer": 1,
+    "choices": [
+      "C.S. Lewis",
+      "J.K. Rowling",
+      "Tolkien",
+      "George R.R. Martin"
+    ]
+  },
+  {
+    "question": "What is the name of Harry Potter's pet owl?",
+    "answer": 2,
+    "choices": [
+      "Errol",
+      "Scabbers",
+      "Hedwig",
+      "Fawkes"
+    ]
+  },
+  {
+    "question": "Who teaches Potions at Hogwarts?",
+    "answer": 3,
+    "choices": [
+      "Professor McGonagall",
+      "Professor Flitwick",
+      "Professor Sprout",
+      "Professor Snape"
+    ]
+  },
+  {
+    "question": "What sweet treat does Professor Lupin give Harry on the train?",
+    "answer": 0,
+    "choices": [
+      "Chocolate Frog",
+      "Bertie Bott's Every Flavour Beans",
+      "Fudge Flies",
+      "Ice Mice"
+    ]
+  },
+  {
+    "question": "Which of these is NOT a title of one of the Harry Potter books?",
+    "answer": 1,
+    "choices": [
+      "Harry Potter and the Half-Blood Prince",
+      "Harry Potter and the Shapeshifters",
+      "Harry Potter and the Goblet of Fire",
+      "Harry Potter and the Chamber of Secrets"
+    ]
+  },
+  {
+    "question": "Who is Headmaster of Hogwarts during Harry's first year?",
+    "answer": 2,
+    "choices": [
+      "Severus Snape",
+      "Dolores Umbridge",
+      "Albus Dumbledore",
+      "Filch"
+    ]
+  },
+  {
+    "question": "What is the core material of Harry's wand?",
+    "answer": 1,
+    "choices": [
+      "Unicorn Hair",
+      "Phoenix Feather",
+      "Dragon Heartstring",
+      "Thestral Hair"
+    ]
+  },
+  {
+    "question": "What magical creature traps Harry and Ron in the Forbidden Forest during their second year?",
+    "answer": 0,
+    "choices": [
+      "Acromantula",
+      "Thestral",
+      "Boggart",
+      "Basilisk"
+    ]
+  },
+  {
+    "question": "What position does Harry play on the Quidditch team?",
+    "answer": 3,
+    "choices": [
+      "Beater",
+      "Chaser",
+      "Keeper",
+      "Seeker"
+    ]
+  },
+  {"question":"What is the spell that disarms an opponent?","answer":2,"choices":["Expelliarmus","Avada Kedavra","Expecto Patronum","Stupefy"]},
+  {"question":"What house at Hogwarts does Harry belong to?","answer":0,"choices":["Gryffindor","Slytherin","Hufflepuff","Ravenclaw"]},
+  {"question":"Who is the headmaster of Hogwarts when Harry first attends?","answer":1,"choices":["Severus Snape","Albus Dumbledore","Minerva McGonagall","Gilderoy Lockhart"]},
+  {"question":"What position does Harry play on his Quidditch team?","answer":3,"choices":["Beater","Keeper","Chaser","Seeker"]},
+  {"question":"What magical creature can only be seen by those who have witnessed death?","answer":2,"choices":["House-Elf","Acromantula","Thestral","Dragon"]},
+  {"question":"What is the name of Harry’s godfather?","answer":0,"choices":["Sirius Black","Remus Lupin","Alastor Moody","Argus Filch"]},
+  {"question":"What is the full name of Hagrid?","answer":3,"choices":["Helga Hufflepuff","Ronald Bilius Weasley","Septimus Snape","Rubeus Hagrid"]},
+  {"question":"In which book does Harry first enter the Ministly of Magic?","answer":1,"choices":["Goblet of Fire","Order of the Phoenix","Half-Blood Prince","Chamber of Secrets"]},
+  {"question":"What platform do students board the Hogwarts Express from?","answer":2,"choices":["7½","6¾","9¾","11½"]},
+  {"question":"Who becomes the new headmaster of Hogwarts in The Deathly Hallows?","answer":0,"choices":["Severus Snape","Pansy Parkinson","Draco Malfoy","Bellatrix Lestrange"]},
+    {"question": "What is the name of Harry Potter's owl?", "answer": 2, "choices": ["Crookshanks", "Scabbers", "Hedwig", "Trevor"]},
+    {"question": "What house is Hermione Granger sorted into?", "answer": 0, "choices": ["Gryffindor", "Hufflepuff", "Ravenclaw", "Slytherin"]},
+    {"question": "Who is the Half-Blood Prince?", "answer": 3, "choices": ["Harry Potter", "Remus Lupin", "James Potter", "Severus Snape"]},
+    {"question": "What position does Harry play on the Quidditch team?", "answer": 1, "choices": ["Beater", "Seeker", "Chaser", "Keeper"]},
+    {"question": "Which magical device allows time travel in the series?", "answer": 0, "choices": ["Time-Turner", "Foe-Glass", "Invisibility Cloak", "Portkey"]},
+    {"question": "What is the name of the tree that attacks anyone who approaches it?", "answer": 2, "choices": ["Blue Willow", "Shrivelfig", "Whomping Willow", "Devil's Snare"]}
+]
