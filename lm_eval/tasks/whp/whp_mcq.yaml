@@ -1,7 +1,8 @@
+task: whp
 dataset_path: json
 dataset_name: null
 dataset_kwargs:
-  data_files: ./whp_questions.json
+  data_files: lm_eval/tasks/whp/whp_questions.json
 fewshot_split: dev
 fewshot_config:
   sampler: first_n

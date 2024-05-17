@@ -1,0 +1,432 @@
+[    {
+        "question": "What is the full name of the author who wrote 'Fantastic Beasts and Where to Find Them' within the Harry Potter universe?",
+        "answer": 1,
+        "choices": ["Newt Scamander", "Newton Artemis Fido Scamander", "Rolf Scamander", "Theseus Scamander"]
+    },
+    {
+        "question": "What was the order of the Marauders listed on the Marauder's Map?",
+        "answer": 3,
+        "choices": ["Moony, Wormtail, Padfoot, Prongs", "Prongs, Padfoot, Wormtail, Moony", "Padfoot, Prongs, Moony, Wormtail", "Moony, Wormtail, Padfoot, Prongs"]
+    },
+    {
+        "question": "What creature's horn exploded in Xenophilius Lovegood's house in 'Harry Potter and the Deathly Hallows'?",
+        "answer": 0,
+        "choices": ["Erumpent", "Graphorn", "Nundu", "Chimaera"]
+    },
+    {
+        "question": "Which of these is NOT one of the original members of the Order of the Phoenix?",
+        "answer": 2,
+        "choices": ["Marlene McKinnon", "Benjy Fenwick", "Ted Tonks", "Hestia Jones"]
+    },
+    {
+        "question": "What is the address of the Black family home where the Order of the Phoenix is headquartered?",
+        "answer": 1,
+        "choices": ["Number 13 Grimmauld Place", "Number 12 Grimmauld Place", "Number 11 Grimmauld Place", "Number 10 Grimmauld Place"]
+    },
+    {
+        "question": "What is the name of the goblin who helps Harry, Ron, and Hermione break into Gringotts?",
+        "answer": 0,
+        "choices": ["Griphook", "Gornuk", "Bogrod", "Ragnok"]
+    },
+    {
+        "question": "In Harry Potter and the Chamber of Secrets, what is the name of the ghost who haunts the girls' bathroom?",
+        "answer": 3,
+        "choices": ["The Grey Lady", "The Fat Friar", "The Bloody Baron", "Moaning Myrtle"]
+    },
+    {
+        "question": "What is the name of the magical plant that Harry uses in 'Harry Potter and the Goblet of Fire' to breathe underwater during the Triwizard Tournament?",
+        "answer": 2,
+        "choices": ["Gillyroot", "Lungwort", "Gillyweed", "Bubbleweed"]
+    },
+    {
+        "question": "What form does Luna Lovegood's Patronus take?",
+        "answer": 1,
+        "choices": ["A hare", "A horse", "A rabbit", "A unicorn"]
+    },
+    {
+        "question": "What is the name of the magical object used to destroy Horcruxes that Ron finds in 'Harry Potter and the Deathly Hallows'?",
+        "answer": 3,
+        "choices": ["The Sword of Godric Gryffindor", "The Basilisk Fang", "The Elder Wand", "The Sword of Gryffindor"]
+    },
+    {
+        "question": "What is the full name of the author who wrote 'The Tales of Beedle the Bard'?",
+        "answer": 1,
+        "choices": ["Bathilda Bagshot", "Beedle the Bard", "Gilderoy Lockhart", "Xenophilius Lovegood"]
+    },
+    {
+        "question": "What is the name of the charm used to disarm an opponent?",
+        "answer": 0,
+        "choices": ["Expelliarmus", "Stupefy", "Protego", "Obliviate"]
+    },
+    {
+        "question": "Which magical object is used to store memories?",
+        "answer": 2,
+        "choices": ["Portkey", "Invisibility Cloak", "Pensieve", "Time-Turner"]
+    },
+    {
+        "question": "Who was the headmaster of Hogwarts when the Chamber of Secrets was opened for the first time?",
+        "answer": 3,
+        "choices": ["Severus Snape", "Minerva McGonagall", "Remus Lupin", "Armando Dippet"]
+    },
+    {
+        "question": "What is the name of the house-elf who serves the Black family?",
+        "answer": 0,
+        "choices": ["Kreacher", "Dobby", "Winky", "Hokey"]
+    },
+    {
+        "question": "What color are the eyes of the basilisk in the Chamber of Secrets?",
+        "answer": 1,
+        "choices": ["Yellow", "Green", "Red", "Blue"]
+    },
+    {
+        "question": "Which of the following is NOT a known password to Dumbledore’s office?",
+        "answer": 3,
+        "choices": ["Fizzing Whizzbee", "Sherbet Lemon", "Cockroach Cluster", "Drooble's Best Blowing Gum"]
+    },
+    {
+        "question": "What is the name of Draco Malfoy's son?",
+        "answer": 2,
+        "choices": ["Scorpius", "Lucius", "Albus", "Severus"]
+    },
+    {
+        "question": "What type of dragon did Fleur Delacour face in the Triwizard Tournament?",
+        "answer": 1,
+        "choices": ["Swedish Short-Snout", "Common Welsh Green", "Hungarian Horntail", "Ukrainian Ironbelly"]
+    },
+    {
+        "question": "What form does Severus Snape's Patronus take?",
+        "answer": 2,
+        "choices": ["Doe", "Stag", "Otter", "Hare"]
+    },
+ {"question":"What is the name of the magical creature that Luna Lovegood claims can only be seen by people who have witnessed death?","answer":2,"choices":["Bowtruckle", "Niffler", "Thestral", "Grindylow"]},
+ {"question":"What is the name of the book Hermione often refers to when looking up magical creatures in 'Harry Potter and the Chamber of Secrets'?","answer":1,"choices":["The Book of Magical Creatures", "Magical Me", "Hogwarts: A History", "Fantastic Beasts and Where to Find Them"]},
+{"question":"Which Death Eater was responsible for poisoning Professor Slughorn's bottle of mead, intending to kill Dumbledore?","answer":3,"choices":["Lucius Malfoy", "Bellatrix Lestrange", "Peter Pettigrew", "Draco Malfoy"]},
+{"question":"What is the full name of the house-elf that Harry inherits from Sirius Black?","answer":0,"choices":["Kreacher", "Dobby", "Winky", "Hokey"]},
+{"question":"What form does Severus Snape's Patronus take?","answer":1,"choices":["A lion", "A doe", "A snake", "A bat"]},
+{"question":"In which year at Hogwarts does Hermione use the Time-Turner to attend multiple classes at once?","answer":1,"choices":["First year", "Third year", "Fifth year", "Seventh year"]},
+{"question":"What is the name of the place where Sirius Black is imprisoned before he escapes and goes on the run?","answer":2,"choices":["The Leaky Cauldron", "The Burrow", "Azkaban", "Shell Cottage"]},
+ {"question":"Which of the following is NOT one of the Unforgivable Curses?","answer":3,"choices":["Avada Kedavra", "Crucio", "Imperio", "Sectumsempra"]},
+{"question":"What is the name of the tree that attacks Harry and Ron in 'Harry Potter and the Chamber of Secrets'?","answer":2,"choices":["Whomping Forest", "Fanged Fir", "Whomping Willow", "Writhing Oak"]},
+ {"question":"What is the name of Fleur Delacour's younger sister who participates in the second task of the Triwizard Tournament?","answer":1,"choices":["Apollin Delacour", "Gabrielle Delacour", "Fabienne Delacour", "Marianne Delacour"]},
+  {
+    "question": "What is the name of the plant that Harry uses to breathe underwater during the Triwizard Tournament?",
+    "answer": 0,
+    "choices": ["Gillyweed", "Mandrake", "Devil's Snare", "Mimbulus mimbletonia"]
+  },
+  {
+    "question": "Which spell did Hermione use to unlock a door in 'Harry Potter and the Philosopher's Stone'?",
+    "answer": 1,
+    "choices": ["Expelliarmus", "Alohomora", "Lumos", "Wingardium Leviosa"]
+  },
+  {
+    "question": "What was the name of Buckbeak after he was saved from execution?",
+    "answer": 2,
+    "choices": ["Fluffy", "Norbert", "Witherwings", "Crookshanks"]
+  },
+  {
+    "question": "What is the core material of Harry Potter's wand?",
+    "answer": 0,
+    "choices": ["Phoenix feather", "Dragon heartstring", "Unicorn hair", "Thestral tail hair"]
+  },
+  {
+    "question": "Who was the headmaster of Hogwarts when the Chamber of Secrets was first opened?",
+    "answer": 3,
+    "choices": ["Albus Dumbledore", "Armando Dippet", "Phineas Nigellus Black", "Dexter Fortescue"]
+  },
+  {
+    "question": "What is the full name of the author of 'Fantastic Beasts and Where to Find Them'?",
+    "answer": 1,
+    "choices": ["Bathilda Bagshot", "Newton Artemis Fido Scamander", "Armando Dippet", "Gilderoy Lockhart"]
+  },
+  {
+    "question": "Who was the Hogwarts librarian during Harry Potter's time at school?",
+    "answer": 3,
+    "choices": ["Poppy Pomfrey", "Sybill Trelawney", "Cuthbert Binns", "Irma Pince"]
+  },
+  {
+    "question": "Which magical creature is known for its deadly, petrifying gaze?",
+    "answer": 2,
+    "choices": ["Hippogriff", "Erumpent", "Basilisk", "Grindylow"]
+  },
+  {
+    "question": "What is the name of the charm used to disarm an opponent?",
+    "answer": 0,
+    "choices": ["Expelliarmus", "Stupefy", "Reducto", "Protego"]
+  },
+  {
+    "question": "What is the name of the Goblin who showed Harry to his vault at Gringotts in the first book?",
+    "answer": 1,
+    "choices": ["Griphook", "Gringott", "Bogrod", "Ragnok"]
+  },
+  {
+    "question": "What is the name of the goblin who helps Harry, Ron, and Hermione break into Gringotts?",
+    "answer": 2,
+    "choices": ["Griphook", "Gornuk", "Bogrod", "Gringott"]
+  },
+  {
+    "question": "Which potion is known as 'liquid luck' in the Harry Potter series?",
+    "answer": 0,
+    "choices": ["Felix Felicis", "Amortentia", "Polyjuice Potion", "Veritaserum"]
+  },
+  {
+    "question": "What is the middle name of Tom Riddle, also known as Lord Voldemort?",
+    "answer": 1,
+    "choices": ["Brian", "Marvolo", "Salazar", "Morfin"]
+  },
+  {
+    "question": "What is the first name of Professor McGonagall?",
+    "answer": 3,
+    "choices": ["Margaret", "Millicent", "Maud", "Minerva"]
+  },
+  {
+    "question": "What spell does Harry use to summon his Firebolt during the Triwizard Tournament?",
+    "answer": 0,
+    "choices": ["Accio", "Expelliarmus", "Stupefy", "Lumos"]
+  },
+  {
+    "question": "What is the name of the house-elf who serves the Black family?",
+    "answer": 2,
+    "choices": ["Winky", "Dobby", "Kreacher", "Hokey"]
+  },
+  {
+    "question": "Who was the original owner of the Elder Wand?",
+    "answer": 1,
+    "choices": ["Albus Dumbledore", "Antioch Peverell", "Gellert Grindelwald", "Draco Malfoy"]
+  },
+  {
+    "question": "What was the name of Aragog's wife?",
+    "answer": 3,
+    "choices": ["Acromantula", "Arania", "Arachne", "Mosag"]
+  },
+  {
+    "question": "Which magical creature's hair is used as the core in Viktor Krum's wand?",
+    "answer": 0,
+    "choices": ["Thestral", "Veela", "Dragon", "Unicorn"]
+  },
+  {
+    "question": "What is the core of Hermione Granger's wand?",
+    "answer": 1,
+    "choices": ["Dragon heartstring", "Dragon heartstring", "Phoenix feather", "Thestral tail hair"]
+  },
+{
+  "question": "What is the name of Aragog's wife?",
+  "answer": 0,
+  "choices": ["Mosag", "Arantha", "Selene", "Tessith"]
+},
+{
+  "question": "What magical creature is known to be resistant to most spells and potions, but can be subdued by the sound of a cerulean bell?",
+  "answer": 1,
+  "choices": ["Nundu", "Jarvey", "Matagot", "Kappas"]
+},
+{
+  "question": "What is the incantation for the Shield Charm?",
+  "answer": 3,
+  "choices": ["Expelliarmus", "Sectumsempra", "Confringo", "Protego"]
+},
+{
+  "question": "Who was the Hogwarts Headmaster before Albus Dumbledore?",
+  "answer": 2,
+  "choices": ["Armando Dippet", "Everard", "Dexter Fortescue", "Dilys Derwent"]
+},
+{
+  "question": "What is the full name of Nearly Headless Nick?",
+  "answer": 0,
+  "choices": ["Sir Nicholas de Mimsy-Porpington", "Sir Nicolas Tempus-Horace", "Lord Henry Glentwater", "Nicholas Flamel"]
+},
+{
+  "question": "Which book does Hermione find the information about the Basilisk in 'The Chamber of Secrets'?",
+  "answer": 1,
+  "choices": ["Hogwarts: A History", "Most Macabre Monstrosities", "Fantastic Beasts and Where to Find Them", "Magical Drafts and Potions"]
+},
+{
+  "question": "Which is the only known spell to repel a Lethifold?",
+  "answer": 0,
+  "choices": ["The Patronus Charm", "Stupefy", "Reducto", "Incendio"]
+},
+{
+  "question": "What was the name of the plant that Neville Longbottom used to paralyze the Death Eaters at the Battle of Hogwarts?",
+  "answer": 2,
+  "choices": ["Gillyweed", "Devil's Snare", "Mimbulus mimbletonia", "Mandrake"]
+},
+{
+  "question": "Who wrote the book 'Magical Me'?",
+  "answer": 3,
+  "choices": ["Bathilda Bagshot", "Newt Scamander", "Phineas Nigellus Black", "Gilderoy Lockhart"]
+},
+{
+  "question": "What wood is Harry Potter's wand made of?",
+  "answer": 1,
+  "choices": ["Yew", "Holly", "Elder", "Ash"]
+},
+    {
+        "question": "What is the full name of the author of the book 'Magical Theory' that Harry Potter used in his first year?",
+        "answer": 2,
+        "choices": [
+            "Adalbert Waffling",
+            "Emeric Switch",
+            "Phyllida Spore",
+            "Arsenius Jigger"
+        ]
+    },
+    {
+        "question": "In 'The Order of the Phoenix', what is the full name of the character who first suggested the establishment of the D.A. (Dumbledore's Army)?",
+        "answer": 1,
+        "choices": [
+            "Hermione Granger",
+            "Ginny Weasley",
+            "Neville Longbottom",
+            "Luna Lovegood"
+        ]
+    },
+    {
+        "question": "Which spell is used to conjure the Dark Mark?",
+        "answer": 3,
+        "choices": [
+            "Morsmordre",
+            "Morsmordres",
+            "Morsmordreus",
+            "Morsmordre"
+        ]
+    },
+    {
+        "question": "What type of dragon does Fleur Delacour face in the Triwizard Tournament?",
+        "answer": 0,
+        "choices": [
+            "Common Welsh Green",
+            "Swedish Short-Snout",
+            "Chinese Fireball",
+            "Hungarian Horntail"
+        ]
+    },
+    {
+        "question": "What is the name of the goblin who assists Harry, Ron, and Hermione in breaking into Gringotts?",
+        "answer": 3,
+        "choices": [
+            "Griphook",
+            "Bogrod",
+            "Gornuk",
+            "Griphook"
+        ]
+    },
+    {
+        "question": "Which magical creature was Aragog, Hagrid's pet in the Forbidden Forest?",
+        "answer": 0,
+        "choices": [
+            "Acromantula",
+            "Basilisk",
+            "Hippogriff",
+            "Thestral"
+        ]
+    },
+    {
+        "question": "What is the title of the book written by Gilderoy Lockhart that claims to explain the secrets of the Yeti?",
+        "answer": 1,
+        "choices": [
+            "Magical Me",
+            "Year with the Yeti",
+            "Gadding with Ghouls",
+            "Holidays with Hags"
+        ]
+    },
+    {
+        "question": "What does the spell 'Obliterate' do in the Harry Potter series?",
+        "answer": 2,
+        "choices": [
+            "Creates a shield",
+            "Cleans objects",
+            "Erases footprints",
+            "Repairs broken objects"
+        ]
+    },
+    {
+        "question": "What is the name of the wandmaker who created the Elder Wand?",
+        "answer": 0,
+        "choices": [
+            "Antioch Peverell",
+            "Gregorovitch",
+            "Mykew Gregorovitch",
+            "Ollivander"
+        ]
+    },
+    {
+        "question": "Who is the ghost that resides in the Gryffindor Tower?",
+        "answer": 1,
+        "choices": [
+            "Nearly Headless Nick",
+            "Sir Nicholas de Mimsy-Porpington",
+            "The Grey Lady",
+            "The Bloody Baron"
+        ]
+    },
+    {
+        "question": "Which magical creature's blood was used by Bathilda Bagshot to write 'A History of Magic'?",
+        "answer": 3,
+        "choices": ["Griffin", "Phoenix", "Thestral", "Kappa"]
+    },
+    {
+        "question": "What is the name of the plant that Neville Longbottom uses to assist the DA in escaping the Forbidden Forest?",
+        "answer": 1,
+        "choices": ["Gillyweed", "Mimbulus mimbletonia", "Venomous Tentacula", "Devil's Snare"]
+    },
+    {
+        "question": "Which spell does Hermione use to free Mrs. Cattermole in 'Harry Potter and the Deathly Hallows'?",
+        "answer": 2,
+        "choices": ["Finite Incantatem", "Alohomora", "Liberacorpus", "Expelliarmus"]
+    },
+    {
+        "question": "What is the full name of the author of 'Magical Me'?",
+        "answer": 0,
+        "choices": ["Gilderoy Lockhart", "Newt Scamander", "Bathilda Bagshot", "Horace Slughorn"]
+    },
+    {
+        "question": "What creature does Luna Lovegood wear as earrings?",
+        "answer": 2,
+        "choices": ["Pixies", "Nargles", "Dirigible Plums", "Billywigs"]
+    },
+    {
+        "question": "What was the final score of the 1994 Quidditch World Cup match that Harry attended?",
+        "answer": 3,
+        "choices": ["160 to 120", "170 to 130", "160 to 150", "170 to 160"]
+    },
+    {
+        "question": "Who was the referee during the first Quidditch match Harry ever played at Hogwarts?",
+        "answer": 1,
+        "choices": ["Madam Pomfrey", "Madam Hooch", "Professor Snape", "Professor McGonagall"]
+    },
+    {
+        "question": "What color were the dress robes that Ron wore to the Yule Ball?",
+        "answer": 0,
+        "choices": ["Maroon", "Emerald Green", "Navy Blue", "Silver"]
+    },
+    {
+        "question": "In which book does Sirius Black give Harry a mirror to communicate with him?",
+        "answer": 3,
+        "choices": ["'Harry Potter and the Sorcerer's Stone'", "'Harry Potter and the Goblet of Fire'", "'Harry Potter and the Order of the Phoenix'", "'Harry Potter and the Half-Blood Prince'"]
+    },
+    {
+        "question": "Which department does Arthur Weasley work in at the Ministry of Magic?",
+        "answer": 1,
+        "choices": ["Department of International Magical Cooperation", "Misuse of Muggle Artifacts Office", "Department of Magical Transportation", "Department of Magical Law Enforcement"]
+    },
+{"question":"What is the full name of the wizard who invented the Wolfsbane Potion?","answer":3,"choices":["Damocles Belby","Gideon Prewett","Arsenius Jigger","Damocles Rowle"]},
+{"question":"What species of dragon did Viktor Krum face in the first task of the Triwizard Tournament?","answer":1,"choices":["Chinese Fireball","Common Welsh Green","Hungarian Horntail","Swedish Short-Snout"]},
+{"question":"What is the name of the Black family house-elf that Kreacher despises for loving Muggles?","answer":2,"choices":["Winky","Dobby","Regulus","Mundungus"]},
+{"question":"What fruit must one tickle on a painting to enter the Hogwarts kitchens?","answer":0,"choices":["Pear","Apple","Peach","Grape"]},
+{"question":"Which potion did Professor Slughorn use to create the blood-replenishing potion in 'Half-Blood Prince'?","answer":2,"choices":["Felix Felicis","Polyjuice Potion","Bloodroot","Veritaserum"]},
+{"question":"Which ingredient is NOT used in the Polyjuice Potion?","answer":3,"choices":["Lacewing flies","Bicorn horn","Fluxweed","Dittany"]},
+{"question":"What is the name of the book Hermione uses to brew Polyjuice Potion?","answer":1,"choices":["Magical Drafts and Potions","Moste Potente Potions","Advanced Potion-Making","Olde and Forgotten Bewitchments and Charmes"]},
+{"question":"What does S.P.E.W stand for?","answer":0,"choices":["Society for the Promotion of Elfish Welfare","Society for the Protection of Elfish Workers","Society for the Preservation of Elfish Wisdom","Society for the Proliferation of Elfish Well-being"]},
+{"question":"What is the name of Aragog's wife?","answer":1,"choices":["Mosag","Arachne","Shelob","Morgana"]},
+{"question":"Who was the original owner of the Elder Wand?","answer":2,"choices":["Gellert Grindelwald","Antioch Peverell","Emeric the Evil","Gregory the Smarmy"]},
+    {"question":"What is the name of the charm that Hermione uses to protect the tent in 'Harry Potter and the Deathly Hallows'?", "answer":1, "choices":["Protego Totalum", "Salvio Hexia", "Repello Muggletum", "Muffliato"]},
+    {"question":"Which of these is not one of the middle names of Albus Dumbledore?", "answer":2, "choices":["Percival", "Brian", "Wilfred", "Wulfric"]},
+    {"question":"In 'Harry Potter and the Goblet of Fire', what is the name of the Bulgarian Minister for Magic?", "answer":3, "choices":["Borys the Bewildered", "Igor Karkaroff", "Nikolai Nikolaevich", "Oblansk"]},
+    {"question":"What is the true name of Voldemort's snake, Nagini, in 'Fantastic Beasts: The Crimes of Grindelwald'?", "answer":0, "choices":["Maledictus", "She doesn't have a true name", "Vivian", "Nagini is her only name"]},
+    {"question":"What is the core of Hermione Granger's first wand?", "answer":3, "choices":["Dragon heartstring", "Thestral tail hair", "Unicorn hair", "Vine wood and dragon heartstring"]},
+    {"question":"What is the full name of the character known as 'Wormtail'?", "answer":1, "choices":["Peter Pettigrew", "Peter Jonathan Pettigrew", "Peter James Pettigrew", "Peter John Pettigrew"]},
+    {"question":"In 'Harry Potter and the Order of Phoenix', which member of the Order of the Phoenix is tasked with tailing Harry before he is attacked by Dementors?", "answer":0, "choices":["Mundungus Fletcher", "Kingsley Shacklebolt", "Nymphadora Tonks", "Remus Lupin"]},
+    {"question":"What is the name of the squib who lives near Harry and sent him a Howler in 'Harry Potter and the Order of the Phoenix'?", "answer":2, "choices":["Arabella Figg", "Mrs. Figg", "Arabella Doreen Figg", "Doreen Figg"]},
+    {"question":"What was the name of Hepzibah Smith's house-elf?", "answer":3, "choices":["Kreacher", "Dobby", "Hokey", "Winky"]},
+    {"question":"What is the name of the room in the Department of Mysteries that is always locked?", "answer":2, "choices":["Room of Prophecies", "The Hall of Time", "The Love Room", "The Death Chamber"]}
+]
+

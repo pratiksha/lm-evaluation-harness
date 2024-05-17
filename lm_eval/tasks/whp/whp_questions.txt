@@ -1,0 +1,622 @@
+[
+    {"question":"Who is the Potions Master at Hogwarts during Harry's first year?", "answer":0, "choices":["Severus Snape", "Horace Slughorn", "Albus Dumbledore", "Remus Lupin"]},
+    {"question":"What House is Luna Lovegood sorted into?", "answer":2, "choices":["Gryffindor", "Hufflepuff", "Ravenclaw", "Slytherin"]},
+    {"question":"What device does Hermione use to attend multiple classes at once in 'Harry Potter and the Prisoner of Azkaban'?", "answer":1, "choices":["Marauder's Map", "Time-Turner", "Invisibility Cloak", "Pensieve"]},
+    {"question":"What magical creature is Aragog?", "answer":0, "choices":["Acromantula", "Thestral", "Basilisk", "Hippogriff"]},
+    {"question":"What spell is used to disarm an opponent?", "answer":1, "choices":["Expelliarmus", "Alohomora", "Lumos", "Obliviate"]},
+    {"question":"What is the name of the Weasley's house?", "answer":2, "choices":["The Den", "Dragon Alley", "The Burrow", "The Shire"]},
+    {"question":"Who poses as Mad-Eye Moody in 'Harry Potter and the Goblet of Fire'?", "answer":1, "choices":["Viktor Krum", "Barty Crouch Jr.", "Igor Karkaroff", "Sirius Black"]},
+    {"question":"What is the final task in the Triwizard Tournament?", "answer":2, "choices":["Dragon challenge", "Lake challenge", "Maze challenge", "Wizard's duel"]},
+    {"question":"Who kills Dumbledore?", "answer":0, "choices":["Severus Snape", "Draco Malfoy", "Bellatrix Lestrange", "Voldemort"]},
+    {"question":"What is the core of Harry's wand?", "answer":1, "choices":["Dragon heartstring", "Phoenix feather", "Unicorn tail hair", "Veela hair"]},
+  {
+    "question": "What house does Harry Potter get sorted into at Hogwarts?",
+    "answer": 0,
+    "choices": [
+      "Gryffindor",
+      "Hufflepuff",
+      "Ravenclaw",
+      "Slytherin"
+    ]
+  },
+  {
+    "question": "What spell is known as the Disarming Charm?",
+    "answer": 1,
+    "choices": [
+      "Wingardium Leviosa",
+      "Expelliarmus",
+      "Avada Kedavra",
+      "Stupefy"
+    ]
+  },
+  {
+    "question": "What is Hermione Granger's parents' profession?",
+    "answer": 2,
+    "choices": [
+      "Bakers",
+      "Teachers",
+      "Dentists",
+      "Engineers"
+    ]
+  },
+  {
+    "question": "Who is the headmaster of Hogwarts for the majority of the series?",
+    "answer": 3,
+    "choices": [
+      "Severus Snape",
+      "Dolores Umbridge",
+      "Alastor Moody",
+      "Albus Dumbledore"
+    ]
+  },
+  {
+    "question": "Which magical creature guarded the Sorcerer's Stone?",
+    "answer": 1,
+    "choices": [
+      "Basilisk",
+      "Fluffy (the three-headed dog)",
+      "Giant Spider",
+      "Hippogriff"
+    ]
+  },
+  {
+    "question": "Who is the wizard 'You-Know-Who' actually named?",
+    "answer": 0,
+    "choices": [
+      "Tom Riddle",
+      "Sirius Black",
+      "Severus Snape",
+      "Albus Dumbledore"
+    ]
+  },
+  {
+    "question": "What car make and model did Mr. Weasley enchant to fly?",
+    "answer": 1,
+    "choices": [
+      "Renault Trafic",
+      "Ford Anglia",
+      "Volkswagen Beetle",
+      "Chevrolet Impala"
+    ]
+  },
+  {
+    "question": "What is the name of the house elf Harry Potter frees?",
+    "answer": 3,
+    "choices": [
+      "Winky",
+      "Kreacher",
+      "Hokey",
+      "Dobby"
+    ]
+  },
+  {
+    "question": "What potion grants the drinker a limited period of good luck?",
+    "answer": 0,
+    "choices": [
+      "Felix Felicis (Liquid Luck)",
+      "Polyjuice Potion",
+      "Amortentia",
+      "Veritaserum"
+    ]
+  },
+  {
+    "question": "What platform determines as the departure point of the Hogwarts Express?",
+    "answer": 2,
+    "choices": [
+      "9",
+      "9 and 3 quarters",
+      "9 3/4",
+      "10"
+    ]
+  },
+  {
+    "question": "What is the name of the tree that Harry and Ron crash the car into in 'Harry Potter and the Chamber of Secrets'?",
+    "answer": 2,
+    "choices": [
+      "The Mimbulus Mimbletonia tree",
+      "The Screaming Willow",
+      "The Whomping Willow",
+      "The Venomous Tentacula"
+    ]
+  },
+  {
+    "question": "Who is the Half-Blood Prince?",
+    "answer": 3,
+    "choices": [
+      "Harry Potter",
+      "Albus Dumbledore",
+      "Tom Riddle",
+      "Severus Snape"
+    ]
+  },
+  {
+    "question": "What magical object is used to store one's memories?",
+    "answer": 2,
+    "choices": [
+      "Horcrux",
+      "Sorting Hat",
+      "Pensieve",
+      "Mirror of Erised"
+    ]
+  },
+  {
+    "question": "What is Albus Dumbledore's full name?",
+    "answer": 3,
+    "choices": [
+      "Albus Percival Dumbledore Mcgonagall",
+      "Albus Percival Brian Weasley",
+      "Albus Beltron Ronaldo Scopp Cristiano",
+      "Albus Percival Wulfric Brian Dumbledore"
+    ]
+  },
+  {
+    "question": "What role does Professor McGonagall teach at Hogwarts?",
+    "answer": 1,
+    "choices": [
+      "Potions",
+      "Transfiguration",
+      "Divination",
+      "Herbology"
+    ]
+  },
+  {
+    "question": "What position does Harry play on his Quidditch team?",
+    "answer": 0,
+    "choices": [
+      "Seeker",
+      "Keeper",
+      "Chaser",
+      "Beater"
+    ]
+  },
+  {
+    "question": "Who kills Professor Dumbledore?",
+    "answer": 0,
+    "choices": [
+      "Severus Snape",
+      "Draco Malfoy",
+      "Lord Voldemort",
+      "Bellatrix Lestrange"
+    ]
+  },
+  {
+    "question": "What does the spell 'Alohomora' do?",
+    "answer": 2,
+    "choices": [
+      "Creates light",
+      "Levitates objects",
+      "Unlocks doors",
+      "Heals minor wounds"
+    ]
+  },
+  {
+    "question": "What is the name of Hagrid's pet dragon?",
+    "answer": 1,
+    "choices": [
+      "Norbal",
+      "Norbert",
+      "Nagini",
+      "Fang"
+    ]
+  },
+    {
+        "question": "What house is Harry Potter sorted into?",
+        "answer": 0,
+        "choices": [
+            "Gryffindor",
+            "Hufflepuff",
+            "Ravenclaw",
+            "Slytherin"
+        ]
+    },
+    {
+        "question": "Who is the Half-Blood Prince?",
+        "answer": 3,
+        "choices": [
+            "Sirius Black",
+            "Albus Dumbledore",
+            "Draco Malfoy",
+            "Severus Snape"
+        ]
+    },
+    {
+        "question": "What is the name of Harry Potter’s owl?",
+        "answer": 1,
+        "choices": [
+            "Errol",
+            "Hedwig",
+            "Scabbers",
+            "Crookshanks"
+        ]
+    },
+    {
+        "question": "Who is the author of 'Magical Theory'?",
+        "answer": 2,
+        "choices": [
+            "Miranda Goshawk",
+            "Bathilda Bagshot",
+            "Adalbert Waffling",
+            "Newt Scamander"
+        ]
+    },
+    {
+        "question": "Who opens the Chamber of Secrets for the first time?",
+        "answer": 3,
+        "choices": [
+            "Harry Potter",
+            "Draco Malfoy",
+            "Hermione Granger",
+            "Tom Riddle"
+        ]
+    },
+    {
+        "question": "Which spell creates light at the tip of the caster’s wand?",
+        "answer": 0,
+        "choices": [
+            "Lumos",
+            "Incendio",
+            "Nox",
+            "Lumos Maxima"
+        ]
+    },
+    {
+        "question": "Who killed Sirius Black?",
+        "answer": 3,
+        "choices": [
+            "Bellatrix Lestrange",
+            "Lord Voldemort",
+            "Peter Pettigrew",
+            "James Potter"
+        ]
+    },
+    {
+        "question": "What form does Hermione’s Patronus take?",
+        "answer": 2,
+        "choices": [
+            "A horse",
+            "A rabbit",
+            "An otter",
+            "A cat"
+        ]
+    },
+    {
+        "question": "What role does Ron Weasley play on the Gryffindor Quidditch team?",
+        "answer": 1,
+        "choices": [
+            "Chaser",
+            "Keeper",
+            "Seeker",
+            "Beater"
+        ]
+    },
+    {
+       "question": "What is the reoccurring trait of a Malfoy?",
+       "answer": 0,
+       "choices": [
+           "Blonde hair",
+           "Red hair",
+           "Brown sprawnose",
+           "Blue eyes"
+       ]
+   },
+    {
+        "question": "Which house at Hogwarts does Harry Potter get sorted into?",
+        "answer": 0,
+        "choices": ["Gryffindor", "Hufflepuff", "Ravenclaw", "Slytherin"]
+    },
+    {
+        "question": "What is the core of Harry Potter's wand?",
+        "answer": 1,
+        "choices": ["Unicorn hair", "Phoenix feather", "Dragon heartstring", "Thestral tail hair"]
+    },
+    {
+        "question": "Who is the Half-Blood Prince?",
+        "answer": 2,
+        "choices": ["James Potter", "Albus Dumbledore", "Severus Snape", "Tom Riddle"]
+    },
+    {
+        "question": "What magical object is used to store memories?",
+        "answer": 3,
+        "choices": ["Horcrux", "Portkey", "Time Turner", "Pensieve"]
+    },
+    {
+        "question": "What object's power leads to invisibility?",
+        "answer": 2,
+        "choices": ["Elder Wand", "Philosopher's Stone", "Invisibility Cloak", "Resurrection Stone"]
+    },
+    {
+        "question": "What position does Harry Potter play on the Gryffindor Quidditch team?",
+        "answer": 0,
+        "choices": ["Seeker", "Keeper", "Beater", "Chaser"]
+    },
+    {
+        "question": "Which of the following plants can be used to revive someone who has been Petrified?",
+        "answer": 0,
+        "choices": ["Mandrake", "Gillyweed", "Bicorn Horn", "Fluxweed"]
+    },
+    {
+        "question": "What is Draco Malfoy's father's name?",
+        "answer": 3,
+        "choices": ["Sirius Malfoy", "Regulus Malfoy","Gellert Malfoy","Lucius Malfoy"]
+    },
+    {
+        "question": "Who was the headmaster of Hogwarts before Albus Dumbledore?",
+        "answer": 1,
+        "choices": ["Minerva McGonagall", "Armando Dippet", "Phineas Nigellus Black", "Dex Ironscribe"]
+    },
+    {
+        "question": "In Fantastic Beasts, which New York wizard becomes Newt Scamander's ally and later wife?",
+        "answer": 1,
+        "choices": ["Tina Fontaine", "Tina Goldstein", "Les Gomes", "Trinia Blackbeck"]
+    },
+    {"question": "What house at Hogwarts does Harry belong to?", "answer": 3, "choices": ["Hufflepuff", "Ravenclaw", "Slytherin", "Gryffindor"]},
+
+    {"question": "What position does Harry play on his Quidditch team?", "answer": 0, "choices": ["Seeker", "Keeper", "Beater", "Chaser"]},
+
+    {"question": "What spell would you use to disarm your opponent?", "answer": 1, "choices": ["Avada Kedavra", "Expelliarmus", "Sectumsempra", "Lumos"]},
+
+    {"question": "Who is Harry's godfather?", "answer": 2, "choices": ["Remus Lupin", "Peter Pettigrew", "Sirius Black", "Severus Snape"]},
+
+    {"question": "What magical creature pulls the carriages that take students from the Hogwarts Express to the castle?", "answer": 3, "choices": ["Hippogriffs", "Unicorns", "Centaurs", "Thestrals"]},
+
+    {"question": "What is the name of the tree Harry and Ron crash their car into?", "answer": 0, "choices": ["Whomping Willow", "Gryffindor Oak", "Bouncing Beech", "Smacking Sycamore"]},
+
+    {"question": "Who was the Half-Blood Prince?", "answer": 1, "choices": ["Harry Potter", "Severus Snape", "Tom Riddle", "Albus Dumbledore"]},
+
+    {"question": "What is the name of Hagrid's giant half-brother?", "answer": 3, "choices": ["Fluffy", "Norbert", "Grawp", "Grond"]},
+
+    {"question": "How does Harry catch his first Snitch?", "answer": 2, "choices": ["With his hand", "With his broom", "With his mouth", "With his foot"]},
+
+    {"question": "What is the name of Voldemort's snake?", "answer": 1, "choices": ["Nagina", "Nagini", "Lucius", "Bella"]},
+    {
+        "question": "Who is the author of the Harry Potter series?",
+        "answer": 2,
+        "choices": ["1. J.R.R. Tolkien", "2. George R.R. Martin", "3. J.K. Rowling", "4. Stephenie Meyer"]
+    },
+    {
+        "question": "What house at Hogwarts does Harry belong to?",
+        "answer": 1,
+        "choices": ["0. Hufflepuff", "1. Gryffindor", "2. Ravenclaw", "3. Slytherin"]
+    },
+    {
+        "question": "What is the spell used to disarm an opponent?",
+        "answer": 3,
+        "choices": ["0. Stupefy", "1. Wingardium Leviosa", "2. Crucio", "3. Expelliarmus"]
+    },
+    {
+        "question": "What position does Harry play on his Quidditch team?",
+        "answer": 2,
+        "choices": ["0. Beater", "1. Chaser", "2. Seeker", "3. Keeper"]
+    },
+    {
+        "question": "Who is Harry's godfather?",
+        "answer": 2,
+        "choices": ["0. Albus Dumbledore", "1. Remus Lupin", "2. Sirius Black", "3. Rubeus Hagrid"]
+    },
+    {
+        "question": "Which of these is NOT one of the Deathly Hallows?",
+        "answer": 1,
+        "choices": ["0. The Elder Wand", "1. The Sword of Gryffindor", "2. The Resurrection Stone", "3. The Invisibility Cloak"]
+    },
+    {
+        "question": "What language does Harry speak with the snake at the zoo?",
+        "answer": 3,
+        "choices": ["0. Gobbledegook", "1. Mermish", "2. Troll", "3. Parseltongue"]
+    },
+    {
+        "question": "What is the name of Hermione's cat?",
+        "answer": 0,
+        "choices": ["0. Crookshanks", "1. Hedwig", "2. Scabbers", "3. Trevor"]
+    },
+    {
+        "question": "Who is NOT a member of the Weasley family?",
+        "answer": 3,
+        "choices": ["0. Molly", "1. Percy", "2. Charlie", "3. Draco"]
+    },
+    {
+        "question": "What serving creature does Harry set free in 'Harry Potter and the Chamber of Secrets'?",
+        "answer": 3,
+        "choices": ["0. Fluffy", "1. Firenze", "2. Buckbeak", "3. Dobby"]
+    },
+  {
+    "question": "In which house was Harry Potter sorted when he first arrived at Hogwarts?",
+    "answer": 3,
+    "choices": [
+      "Hufflepuff",
+      "Ravenclaw",
+      "Slytherin",
+      "Gryffindor"
+    ]
+  },
+  {
+    "question": "Who gave Harry Potter his first ever birthday cake?",
+    "answer": 1,
+    "choices": [
+      "Professor Dumbledore",
+      "Hagrid",
+      "Sirius Black",
+      "Aunt Petunia"
+    ]
+  },
+  {
+    "question": "Which material is Harry’s wand made of?",
+    "answer": 1,
+    "choices": [
+      "Elm",
+      "Holly",
+      "Rosewood",
+      "Cherry"
+    ]
+  },
+  {
+    "question": "What position does Harry play on his Quidditch team?",
+    "answer": 0,
+    "choices": [
+      "Seeker",
+      "Chaser",
+      "Keeper",
+      "Beater"
+    ]
+  },
+  {
+    "question": "What is the name of the house elf who first talked to Harry?",
+    "answer": 0,
+    "choices": [
+      "Dobby",
+      "Winky",
+      "Kreacher",
+      "Hokey"
+    ]
+  },
+  {
+    "question": "What is the name of the charm that repels Dementors?",
+    "answer": 2,
+    "choices": [
+      "Expelliarmus",
+      "Lumos",
+      "Expecto Patronum",
+      "Alohomora"
+    ]
+  },
+  {
+    "question": "Who kills Dumbledore at the top of the Astronomy Tower?",
+    "answer": 2,
+    "choices": [
+      "Bellatrix Lestrange",
+      "Draco Malfoy",
+      "Severus Snape",
+      "Fenrir Greyback"
+    ]
+  },
+  {
+    "question": "Where did Harry first meet Draco Malfoy?",
+    "answer": 3,
+    "choices": [
+      "The Leaky Cauldron",
+      "On the Hogwarts Express",
+      "In the Gryffindor common room",
+      "Madam Malkin’s Robes for All Occasions"
+    ]
+  },
+  {
+    "question": "Which potion allows the user to change their appearance?",
+    "answer": 2,
+    "choices": [
+      "Felix Felicis",
+      "Amortentia",
+      "Polyjuice Potion",
+      "Veritaserum"
+    ]
+  },
+  {
+    "question": "Who betrayed the Potters to Voldemort?",
+    "answer": 1,
+    "choices": [
+      "Sirius Black",
+      "Peter Pettigrew",
+      "Severus Snape",
+      "Lucius Malfoy"
+    ]
+  },
+  {
+    "question": "What house at Hogwarts is Harry Potter sorted into?",
+    "answer": 0,
+    "choices": [
+      "Gryffindor",
+      "Slytherin",
+      "Ravenclaw",
+      "Hufflepuff"
+    ]
+  },
+  {
+    "question": "What is the spell used to disarm an opponent?",
+    "answer": 2,
+    "choices": [
+      "Expelliantarus",
+      "Levioso Totalis",
+      "Expelliarmus",
+      "Obliviate"
+    ]
+  },
+  {
+    "question": "Who is the Half-Blood Prince?",
+    "answer": 1,
+    "choices": [
+      "Albus Dumbledore",
+      "Severus Snape",
+      "Tom Riddle",
+      "Harry Potter"
+    ]
+  },
+  {
+    "question": "Where is the entrance to the Chamber of Secrets hidden?",
+    "answer": 1,
+    "choices": [
+      "In the Forbidden Forest",
+      "In the girls' bathroom on the second floor",
+      "In the Room of Requirement",
+      "In the Headmaster's office"
+    ]
+  },
+  {
+    "question": "Which magical creature pulls the carriages carrying students to Hogwarts?",
+    "answer": 2,
+    "choices": [
+      "Hippogriffs",
+      "Acromantulas",
+      "Thestrals",
+      "Centaurs"
+    ]
+  },
+  {
+    "question": "Which of the Deathly Hallows does Harry gain first?",
+    "answer": 3,
+    "choices": [
+      "The Elder Wand",
+      "The Resurrection Stone",
+      "The Invisibility Cloak",
+      "None of these"
+    ]
+  },
+  {
+    "question": "Who marries Fleur Delacour?",
+    "answer": 0,
+    "choices": [
+      "Bill Weasley",
+      "Charlie Weasley",
+      "Fred Weasley",
+      "George Weasley"
+    ]
+  },
+  {
+    "question": "What type of creature is Aragog?",
+    "answer": 3,
+    "choices": [
+      "Hippogriff",
+      "Centaur",
+      "Phoenix",
+      "Acromantula"
+    ]
+  },
+  {
+    "question": "What does Professor Umbridge make Harry write using a special quill in 'The Order of the Phoenix'?",
+    "answer": 2,
+    "choices": [
+      "I will not tell lies",
+      "I will not break rules",
+      "I must not tell lies",
+      "I will be silent"
+    ]
+  },
+  {
+    "question": "What form does Hermione's Patronus take?",
+    "answer": 0,
+    "choices": [
+      "Otter",
+      "Swan",
+      "Cat",
+      "Doe"
+    ]
+  }
+]
+
