@@ -263,12 +263,14 @@ class Task(abc.ABC):
             - `datasets.DownloadMode.FORCE_REDOWNLOAD`
                 Fresh download and fresh dataset.
         """
+        eval_logger.info('Loading here')
         self.dataset = datasets.load_dataset(
             path=self.DATASET_PATH,
             name=self.DATASET_NAME,
             data_dir=data_dir,
             cache_dir=cache_dir,
             download_mode=download_mode,
+            split='test[50%:]'
         )
 
     @property
@@ -941,7 +943,13 @@ class ConfigurableTask(Task):
         if self.has_test_docs():
             if self.config.process_docs is not None:
                 return self.config.process_docs(self.dataset[self.config.test_split])
-            return self.dataset[self.config.test_split]
+            eval_logger.info(self.dataset)
+            eval_logger.info(len(self.dataset[self.config.test_split]))
+            eval_logger.info(self.config.test_split)
+            dlen = len(self.dataset[self.config.test_split])
+            dset = self.dataset[self.config.test_split].select(range(dlen//2, dlen))
+            eval_logger.info(dset)
+            return dset
 
     def fewshot_docs(self):
         if self.config.fewshot_split is not None:

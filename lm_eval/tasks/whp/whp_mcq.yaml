@@ -1,14 +1,13 @@
 task: whp
+test_split: test
 dataset_path: json
 dataset_name: null
 dataset_kwargs:
-  data_files: lm_eval/tasks/whp/whp_questions.json
-fewshot_split: dev
-fewshot_config:
-  sampler: first_n
+  data_files:
+     test: lm_eval/tasks/whp/whp_questions_hard.txt
 output_type: multiple_choice
-doc_to_text: "{{question.strip()}}\n0. {{choices[0]}}\n1. {{choices[1]}}\n2. {{choices[2]}}\n3. {{choices[3]}}\nAnswer:"
-doc_to_choice: ["0", "1", "2", "3"]
+doc_to_text: "{{question.strip()}}\nA. {{choices[0]}}\nB. {{choices[1]}}\nC. {{choices[2]}}\nD. {{choices[3]}}\nAnswer:"
+doc_to_choice: ["A", "B", "C", "D"]
 doc_to_target: answer
 metric_list:
   - metric: acc
